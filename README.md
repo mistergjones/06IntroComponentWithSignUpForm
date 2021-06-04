@@ -57,8 +57,6 @@ const validateEmail = (email) => {
 };
 ```
 
-If you want more help with writing markdown, we'd recommend checking out [The Markdown Guide](https://www.markdownguide.org/) to learn more.
-
 ## Author
 
--   Website - [Add your name here](https://www.your-site.com)
+-   Website - Glen Jones (https://www.glenjones.com.au)
